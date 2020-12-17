@@ -1,22 +1,54 @@
-# Vitor Pereira 🚀
+<h3 align='center' >Hello, I'm Vitor 👋</h3>
 
 <p align='center' >
-  <a href='https://www.linkedin.com/in/vitor-pereira-309a7319b/' >
-    <img src='https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn' />
+  <a href='https://www.linkedin.com/in/vitor-pereira-309a7319b/'>
+    <img src='https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logocolor=white' alt='Linkedin' />
   </a>
-   
-  <a href='mailto:vitorpereira@discente.ufg.br' >
-    <img src='https://img.shields.io/badge/-Gmail-e63946?style=flat&logo=Gmail&logoColor=white' />
-  </a>
-
 </p>
 
-## Quem sou eu 📌
+---
 
-Olá! Me chamo Vitor, tenho 19 anos e sou apaixonado pela tecnologia. Estou cursando Sistemas de Informação pela Universidade Federal de Goiás e atualmente estou destinando meus estudos ao ambiente FullStack, utilizando as seguintes tecnologias :
+## About me 📗
 
-- [NodeJS](https://nodejs.org/en/) 💚
-- [ReactJS](https://pt-br.reactjs.org/) 💙
-- [React Native](https://reactnative.dev/) 💜
+I'm a software engineer based on Senador Canedo (GO), who loves to create new things for the web!
 
-Também estou em busca de um estágio, utilizando quaisquer tecnologias. Mesmo que seja algo que não aprendi, garanto que vou ter muita disposição nos meus estudos e ajudar nas resoluções dos problemas do mundo real!
+- 🎨 Focused on Frontend
+- 🏢 Currently working with ReactJS
+- 📑 System Information student at UFG
+
+## I'm studying these technologies 💻
+
+<p>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+    <img 			 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px" /> 
+  </a>
+  &nbsp;
+  <a href="https://www.typescriptlang.org/">
+    <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
+  width="30px" />
+  </a>
+  &nbsp;
+  <a href="https://pt-br.reactjs.org/">
+    <img src="https://i.imgur.com/6CgnlCv.png" width="30px" /> 
+  </a>
+  &nbsp;
+  <a href="https://reactnative.dev/">
+    <img src="https://i.imgur.com/QkArX8w.png" width="30px" />
+  </a>
+  &nbsp;
+  <a href="https://nodejs.org/en/">
+    <img src="https://i.imgur.com/4Vryy4y.png" width="30px" />
+  </a>
+  &nbsp;
+  <a href="https://www.docker.com/">
+    <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="30px" />
+  </a>
+</p>
+
+## Currently listening 🎧
+
+[![Spotify](https://novatorem.vitorpedeo.vercel.app/api/spotify)](https://open.spotify.com/user/vitorpedeo)
+
+## My stats ✏️
+
+<img src="https://github-readme-stats.vitorpedeo.vercel.app/api?username=vitorpedeo&show_icons=true&theme=dracula" />
