@@ -51,9 +51,8 @@ I'm a software engineer based on Senador Canedo (GO), who loves to create new th
 
 ## My stats ✏️
 
-<p>
-  <img src="https://github-readme-stats-ten-chi.vercel.app/api?username=vitorpedeo&show_icons=true&theme=dracula" />
-  &nbsp;
-  &nbsp;
-  <img src="https://github-readme-stats-ten-chi.vercel.app/api/top-langs/?username=vitorpedeo&exclude_repo=POO_2020-4&layout=compact" />
-</p>
+<img src="https://github-readme-stats-ten-chi.vercel.app/api?username=vitorpedeo&show_icons=true&theme=dracula" />
+
+## My prefered languages 📖
+
+<img src="https://github-readme-stats-ten-chi.vercel.app/api/top-langs/?username=vitorpedeo&exclude_repo=POO_2020-4&layout=compact" />
