@@ -54,7 +54,6 @@ I'm a software engineer based on Senador Canedo (GO), who loves to create new th
 <div>
   <img height="180em" src="https://github-readme-stats-ten-chi.vercel.app/api?username=vitorpedeo&show_icons=true&theme=dracula" />
   &nbsp;
-  &nbsp;
   <img height="180em" src="https://github-readme-stats-ten-chi.vercel.app/api/top-langs/?username=vitorpedeo&exclude_repo=POO_2020-4&layout=compact&theme=dracula" />
 </div>
 
