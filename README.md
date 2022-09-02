@@ -13,12 +13,13 @@
 I'm a software engineer based on Senador Canedo (GO), who loves to create new things for the web!
 
 - 🎨 Focused on Frontend
-- 🏢 Currently working with ReactJS
+- 🏢 Currently working with Flutter and Laravel
 - 📑 System Information student at UFG
+- ✏️ Sometimes I write cool things on my [blog](https://vitorpedeo.dev)
 
-## I'm studying these technologies 💻
+## I'm familiar with these technologies ⚡
 
-<p>
+<div>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
     <img 			 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="30px" /> 
   </a>
@@ -32,22 +33,31 @@ I'm a software engineer based on Senador Canedo (GO), who loves to create new th
     <img src="https://i.imgur.com/6CgnlCv.png" width="30px" /> 
   </a>
   &nbsp;
-  <a href="https://reactnative.dev/">
-    <img src="https://i.imgur.com/QkArX8w.png" width="30px" />
-  </a>
-  &nbsp;
   <a href="https://nodejs.org/en/">
     <img src="https://i.imgur.com/4Vryy4y.png" width="30px" />
   </a>
   &nbsp;
+  <a href="https://git-scm.com/">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30px" />
+  </a>
+</div>
+
+## And I'm studying these technologies 💻
+
+<div>
   <a href="https://www.docker.com/">
     <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="30px" />
   </a>
-</p>
-
-## Currently listening 🎧
-
-[![Spotify](https://novatorem.vitorpedeo.vercel.app/api/spotify)](https://open.spotify.com/user/vitorpedeo)
+   &nbsp;
+  <a href="https://flutter.dev/">
+    <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" width="20px" />
+  </a>
+   &nbsp;
+  <a href="https://laravel.com/">
+    <img src="https://raw.githubusercontent.com/laravel/art/master/logo-mark/4%20PNG/3%20RGB/1%20Full%20Color/laravel-mark-rgb-red.png" width="26px" />
+  </a>
+   &nbsp;
+</div>
 
 ## My stats ✏️
 
@@ -58,3 +68,10 @@ I'm a software engineer based on Senador Canedo (GO), who loves to create new th
   </a>
 </div>
 
+## My Streak 🔥
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vitorpedeo&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+## Currently listening 🎧
+
+[![Spotify](https://novatorem.vitorpedeo.vercel.app/api/spotify)](https://open.spotify.com/user/vitorpedeo)
