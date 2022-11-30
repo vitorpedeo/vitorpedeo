@@ -72,6 +72,9 @@ I'm a software engineer based on Senador Canedo (GO), who loves to create new th
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vitorpedeo&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Currently listening 🎧
 
 [![Spotify](https://novatorem.vitorpedeo.vercel.app/api/spotify)](https://open.spotify.com/user/vitorpedeo)
