@@ -73,6 +73,82 @@ I'm a software engineer based on Senador Canedo (GO), who loves to create new th
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vitorpedeo&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2036%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 28 Contributions in the Year 2023
+ > 
+> 📦 118.5 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 44 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    71 commits     ██████░░░░░░░░░░░░░░░░░░░   25.91% 
+🌆 Daytime    102 commits    █████████░░░░░░░░░░░░░░░░   37.23% 
+🌃 Evening    101 commits    █████████░░░░░░░░░░░░░░░░   36.86% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       51 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.61% 
+Tuesday      8 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.92% 
+Wednesday    22 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.03% 
+Thursday     24 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
+Friday       57 commits     █████░░░░░░░░░░░░░░░░░░░░   20.8% 
+Saturday     74 commits     ██████░░░░░░░░░░░░░░░░░░░   27.01% 
+Sunday       38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.87%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               25 repos            ██████████████░░░░░░░░░░░   55.56% 
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.78% 
+Java                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.44% 
+C++                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.44%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/vitorpedeo/vitorpedeo/master/charts/bar_graph.png) 
+
+
+ Last Updated on 13/01/2023 03:24:01 UTC
 <!--END_SECTION:waka-->
 
 ## Currently listening 🎧
