@@ -73,7 +73,7 @@ I'm a software engineer based on Senador Canedo (GO), who loves to create new th
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vitorpedeo&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -148,7 +148,7 @@ C++                      2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/vitorpedeo/vitorpedeo/master/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2023 03:24:01 UTC
+ Last Updated on 14/01/2023 03:21:07 UTC
 <!--END_SECTION:waka-->
 
 ## Currently listening 🎧
